@@ -87,8 +87,6 @@ Upon successful payment:
 
 ## Wireframes (Mobile-first)
 
-> Add your exported PNGs in `./user-journey-and-wireframes/` and update filenames below if needed.
-
 ### Screen 1: Quick Pay Setup
 ![Quick Pay Setup](./user-journey-and-wireframes/step-1-quick-pay-setup.png)
 
